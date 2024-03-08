@@ -34,3 +34,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Output Screenshots
+
+### UI:
+
+![UI](/screenshots/ui.png)
+
+### Add Details Modal:
+
+![Add Details Modal](/screenshots/add_details_modal.png)
+
+### Errors:
+
+![Error](/screenshots/error1.png)
+![Error](/screenshots/error2.png)
+
+### Successful Submission:
+
+![Successful Submission](/screenshots/save.png)
+
+### MongoDB Atlas:
+
+![MongoDB Atlas](/screenshots/monogdb_atlas.png)
+
+### MongoDB Compass:
+
+![MongoDB Compass](/screenshots/mongodb_compass.png)
